@@ -4,4 +4,4 @@
 {{ site.description }}
 
 # About
-email [{{site.email}} (mailto:{{site.email}})
+email [{{site.email}}](mailto:{{site.email}})
