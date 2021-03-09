@@ -1,4 +1,4 @@
-# {{ site.Title }}
+# {{ site.title }}
 
 ## Description
 {{ site.Description }}
