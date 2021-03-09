@@ -15,3 +15,7 @@ are caused by two trailing spaces at the end of a line.
 - Software Carpentry
 - Data Carpentry
 - Library Carpentry
+
+## Header 2
+~~wrong text~~
+![description](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png?raw=true "logo")
