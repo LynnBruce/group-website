@@ -1,6 +1,7 @@
-# My Reserach Project
+# {{ site.title }}
 
 ## Description
-Description description description
+{{ site.description }}
 
 [About](about.md)
+
