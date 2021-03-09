@@ -18,4 +18,10 @@ are caused by two trailing spaces at the end of a line.
 
 ## Header 2
 ~~wrong text~~
+
+1. list
+2. lsit
+3. sad
+4. 
+
 ![description](https://github.com/carpentries/carpentries.org/blob/main/images/TheCarpentries-opengraph.png?raw=true "logo")
