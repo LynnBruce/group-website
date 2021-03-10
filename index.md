@@ -1,8 +1,7 @@
 ---
 lesson-example: "https://carpentries.github.io/lesson-example/"
 ---
-
-layout: Page
+layout: page
 
 {% include banner.md %}
 
