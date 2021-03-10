@@ -14,4 +14,4 @@ lesson-example: "https://carpentries.github.io/lesson-example/"
 [examples]({{page.lesson.example}})
 
 
-{% incude about.md %}
+{% incude contact.md %}
