@@ -12,3 +12,6 @@ lesson-example: "https://carpentries.github.io/lesson-example/"
 [About](About.md)
 
 [examples]({{page.lesson.example}})
+
+
+{% incude about.md %}
