@@ -1,6 +1,9 @@
 ---
 lesson-example: "https://carpentries.github.io/lesson-example/"
 ---
+
+layout: Page
+
 {% include banner.md %}
 
 # {{ site.title }}
@@ -16,4 +19,4 @@ lesson-example: "https://carpentries.github.io/lesson-example/"
 
 {% include contact.md %}
 
-{% include mistake.md %}
+
