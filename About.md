@@ -3,5 +3,5 @@
 ## Aboout
 {{ site.description }}
 
-# About
+# Contact us
 email [{{site.email}}](mailto:{{site.email}})
