@@ -14,6 +14,5 @@ layout: page
 [examples]({{page.lesson.example}})
 
 
-{% include contact.md %}
 
 
