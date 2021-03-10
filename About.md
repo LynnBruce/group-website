@@ -1,7 +1,10 @@
+{% include banner.md %}
+
+
 # About
 
 ## Aboout
 {{ site.description }}
 
-# Contact us
-email [{{site.email}}](mailto:{{site.email}})
+{% include contact.md %}
+
