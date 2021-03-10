@@ -10,6 +10,6 @@ lesson-example: "https://carpentries.github.io/lesson-example/"
 ## Description
 {{ site.Description }}
 
-[About](about.md)
+[About](About.md)
 
 [examples]({{page.lesson.example}})
